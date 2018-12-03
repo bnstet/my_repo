@@ -8,3 +8,6 @@ import math
 
 def mydivide(x,y):
     return x / y
+
+def mytrue(x):
+    return x>0
