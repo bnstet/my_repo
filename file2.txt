@@ -1,3 +1,2 @@
 This is my second text file.
-I don't like it as much.
 This is a new line in file2.txt.
