@@ -1,3 +1,4 @@
 Hello World!
-This is my first test file.
+This is my first test file, and it is good.
 This is a new line.
+This is another line.
